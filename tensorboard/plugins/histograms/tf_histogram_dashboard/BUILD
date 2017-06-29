@@ -24,9 +24,10 @@ ts_web_library(
         "//tensorboard/components/tf_paginated_view",
         "//tensorboard/components/tf_runs_selector",
         "//tensorboard/plugins/histograms/vz_histogram_timeseries",
-        "@org_polymer_iron_collapse",
+        "@org_polymer_iron_icon",
         "@org_polymer_paper_button",
         "@org_polymer_paper_icon_button",
+        "@org_polymer_paper_input",
         "@org_polymer_paper_styles",
     ],
 )
